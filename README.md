@@ -1,16 +1,21 @@
 ### Hi there 👋
+<br>
 
-<!--
-**priyansh-design/priyansh-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently 2nd year Electrical & Electronics Engineering student at Visvesvaraya National Institute Of Technology.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently exploring differnet field of software development.
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Contact me:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-mehta-37314a199/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehtapriyansh2000@gmail.com)
+
+
+<br>
+
+![Priyansh Mehta github stats](https://github-readme-stats.vercel.app/api?username=priyansh-design&show_icons=true&theme=radical)
+
+
+![Priyansh Mehta github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aneesh-she&layout=compact&theme=dark)
+
