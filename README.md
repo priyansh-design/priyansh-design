@@ -17,5 +17,5 @@
 ![Priyansh Mehta github stats](https://github-readme-stats.vercel.app/api?username=priyansh-design&show_icons=true&theme=radical)
 
 
-![Priyansh Mehta github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aneesh-she&layout=compact&theme=dark)
+![Priyansh Mehta github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh-design&layout=compact&theme=dark)
 
