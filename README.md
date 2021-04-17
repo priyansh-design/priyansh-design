@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently 2nd year Electrical & Electronics Engineering student at Visvesvaraya National Institute Of Technology.
 
-- 🌱 I’m currently exploring differnet field of software development.
+- 🌱 I’m currently exploring different field of software development.
 <br>
 
 **Contact me:**
