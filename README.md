@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi, I'am Priyansh Mehta 👋
 <br>
 
-- 🔭 I’m currently 2nd year Electrical & Electronics Engineering student at Visvesvaraya National Institute Of Technology.
+- 🔭 I’m currently 4th year Electrical & Electronics Engineering student at Visvesvaraya National Institute Of Technology.
 
-- 🌱 I’m currently exploring different field of software development.
+- 🌱 I’m currently learning different technologies.
+
+- 👀 I'm interested in Problem Solving and Competitive Programming discussions.
 <br>
 
 **Contact me:**
