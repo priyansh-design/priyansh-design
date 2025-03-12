@@ -1,7 +1,8 @@
 ### Hi, I'am Priyansh Mehta 👋
 <br>
+- 💻 I'm currently working as a Software Engineer at Oracle.
 
-- 🔭 I’m currently 4th year Electrical & Electronics Engineering student at Visvesvaraya National Institute Of Technology.
+- 🔭 I have graduated from Visvesvaraya National Institute Of Technology with major in Electrical and Electronics Engineering.
 
 - 🌱 I’m currently learning different technologies.
 
